@@ -1,0 +1,2227 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.342103,48.201752 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "name":"Dr. Gregor Timmel",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":110,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Westbahnstraße 27-29/2/35",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.327885,48.207373 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "name":"Dr. Reihaneh Behrus",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":99,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Koppstraße 43/2-3",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.317401,48.196155 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "name":"Dr. Farnush Ouhadi",
+    "description":"Nuklearmediziner",
+    "@type":"GeoCoordinates",
+    "reviewCount":22,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Märzstraße 99/1/18",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.315105,48.199846 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "name":"MR Dr. Peter Taborsky",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":25,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Kienmayergasse 9/7",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.339232,48.200687 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "name":"Dr. Karin Girkinger",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":27,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Kenyongasse 18/3",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.333971,48.19043 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "name":"Dr. Feridoun Asadian-Chalshtari",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":39,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Friesgasse 7/1",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.318869,48.199331 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "name":"Dr. Goran Rul",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Johnstraße 69/1/15",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.331044,48.200481 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "name":"Dr. Gertraud Woda",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":13,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Hütteldorfer Straße 268/6/5",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.31595,48.196922 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "name":"Dr. Angelika Schneeweiß",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":29,
+    "bestRating":5,
+    "ratingValue":4.3,
+    "worstRating":"1",
+    "streetAddress":"Nobilegasse 35/6/2",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.334404,48.191508 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "name":"Dr. Hannes Graf",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":25,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Clementinengasse  11/4",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.326378,48.204996 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "name":"Dr. Richard Edl",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":16,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Gablenzgasse 41/6/3",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.312858,48.198904 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "name":"Dr. Elisabeth Knab",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":12,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Hütteldorfer Straße 113a/14",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34024,48.202316 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "name":"Dr. Susanne Herbacek",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":36,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Kaiserstraße 55/3/4a",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.344843,48.204152 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "name":"Dr. med. Eva Schornsteiner",
+    "description":"Unfallchirurgin",
+    "@type":"GeoCoordinates",
+    "reviewCount":20,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Zieglergasse 57/11",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.336041,48.204257 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "name":"Dr. Parvis Daryai",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Gablenzgasse 4/10",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.344843,48.204152 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "name":"Dr. Nika Mayerhofer-Gallenbacher",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Zieglergasse 57/11",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3464435,48.1967463 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "name":"Dr. Christiane Brunner",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":21,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 97/7",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34049,48.208039 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "name":"Dr. Alexander Scheiblhofer",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":31,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Lerchenfelder Straße 131",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.346269,48.211428 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "name":"Dr. Calipso Pröll",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":27,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Kupkagasse 5/1",
+    "postalCode":1080,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.355268,48.197829 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "name":"Dr. Peter Glauninger",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":65,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Gumpendorfer Straße 53/1",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.348736,48.213965 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "name":"Dr. Claudia Chizzali-Bonfadin",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":52,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Haspingergasse 5/1",
+    "postalCode":1080,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.324297,48.197436 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "name":"Dr. Leo Fitzinger",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":244,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Kardinal Rauscher-Platz 4",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.332826,48.21636 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "name":"Dr. Christoph Scherer",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":28,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Geblergasse 53",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.330186,48.214133 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "name":"Dr. Bernd Schrutz",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":12,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Ortliebgasse 2/1/7",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.329858,48.21039 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "name":"Dr. Friedrich Matejicek",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":19,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Bachgasse 3/1",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.330449,48.210837 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "name":"Dr. Sara Hakimzadeh",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":16,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Friedrich Kaiser-Gasse 18-20/3/1",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.300732,48.198357 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "name":"Dr. Gabriele Medl",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":53,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Heinrich Collin-Straße 8-14/11/1",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.31426,48.19723 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "name":"Dr. Constanze Waltenberger",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":10,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Beckmanngasse 64/11",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.309979,48.189734 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "name":"Dr. Andreas Kauntz",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":15,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Penzinger Straße 36-38/1/4",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.312119,48.197984 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "name":"Dr. Rita Dopler",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":15,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Reinlgasse 31/2",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.315989,48.192659 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "name":"Dr. Alexander Sailer",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":10,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Linzer Straße 476/4/2",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.308214,48.202744 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "name":"HR MR Dr. Michael Leutner",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":11,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Huttengasse 2-4",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.302798,48.198654 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "name":"Dr. Maria Weiß-Grein",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":33,
+    "bestRating":5,
+    "ratingValue":4.3,
+    "worstRating":"1",
+    "streetAddress":"Leyserstraße 2/ 4. Stock / Top 26",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.360259,48.199692 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "name":"Dr. Paul Leyen",
+    "description":"Hautarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":122,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Gumpendorfer Straße 18/14",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.330077,48.182391 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "name":"Dr. Kambiz Modarressy",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":55,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Meidlinger Hauptstraße 7-9/1/7",
+    "postalCode":1120,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.330531,48.188378 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "name":"Dr. Karl Müller",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":21,
+    "bestRating":5,
+    "ratingValue":4.1,
+    "worstRating":"1",
+    "streetAddress":"Reindorfgasse 9/1",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.326097,48.1817 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "name":"Dr. Gohar Babanejad Vajargah",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":28,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Rosasgasse 6",
+    "postalCode":1120,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.327304,48.188858 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "name":"Dr. Margarete Piringer",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Oelweingasse 21-23/3/1/4",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.331704,48.191871 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "name":"Dr. Robert Milla",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":35,
+    "bestRating":5,
+    "ratingValue":3.9,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 170/1/12",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.334635,48.18866 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "name":"Dr. Eva Maria Kulcsar-Mecsery",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":30,
+    "bestRating":5,
+    "ratingValue":4,
+    "worstRating":"1",
+    "streetAddress":"Sechshauserstraße 26",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.33079,48.181891 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "name":"Dr. Christoph Wieser",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":15,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Arndtstraße 96/5",
+    "postalCode":1120,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.32904,48.185808 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "name":"Dr. Rami Baradie",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":18,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Kellinggasse 7/5",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.335896,48.194344 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "name":"Dr. Maximilian Domej",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":21,
+    "bestRating":5,
+    "ratingValue":4.2,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 147/6",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343065,48.196657 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "name":"OÄ Dr. Manuela Hanke",
+    "description":"Kardiologin",
+    "@type":"GeoCoordinates",
+    "reviewCount":165,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 114 / Stiege 2 / Top 2",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3268033,48.1957186 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "name":"Dr. Celal Burak Erdogmus",
+    "description":"Internist",
+    "@type":"GeoCoordinates",
+    "reviewCount":137,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Huglgasse 6/13",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343033,48.196711 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "name":"Dr. Tania Fuchs",
+    "description":"Internistin",
+    "@type":"GeoCoordinates",
+    "reviewCount":126,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 114 / Stiege 2 / Top 2",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.33972,48.217409 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "name":"Priv.-Doz. DDr. Christian Albrecht, MBA",
+    "description":"Unfallchirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":109,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Jörgerstraße 11",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.35187,48.212522 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "name":"Dr. Florian Pichler",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":73,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Lammgasse 5/6",
+    "postalCode":1080,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.33972,48.217409 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "name":"OA Dr.med.univ. Roman Christian Ostermann",
+    "description":"Unfallchirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":104,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Jörgerstraße 11/1",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3503767,48.204409 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "name":"OA Dr. Rupert Schuster",
+    "description":"Unfallchirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":52,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Burggasse 40/6",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.347021,48.215479 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "name":"Univ.Prof. Dr. Christian Gäbler",
+    "description":"Unfallchirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":140,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Alserstraße 28/12",
+    "postalCode":1090,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.355326,48.204311 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "name":"Dr. Samira Majlesi",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":27,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Burggasse 6-8/9",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.351189,48.217516 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "name":"Dr. Manuel Scharrer, MBA",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":65,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Spitalgasse 17a",
+    "postalCode":1090,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.346753,48.205686 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "name":"Dr. Reinhard Franz Flick",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":18,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Neustiftgasse 64/36",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34738,48.193253 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "name":"MR Dr. Konstantin Chrysopoulos",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Webgasse 11/9a",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34657,48.196987 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "name":"Dr. Franz Mayrhofer",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":4.2,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 95/12",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.359275,48.195001 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "name":"Dr. Irina Tassatti",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":18,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Franzensgasse 17/1/1/2",
+    "postalCode":1050,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.354735,48.199681 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "name":"Dr. Benita Hodzic-Wimmer",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 47/1/8",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343333,48.216594 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "name":"Dr. Horst Michael Schalk",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":33,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Zimmermannplatz 1",
+    "postalCode":1090,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343726,48.213513 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "name":"Dr. Eva Hammerschmid",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":30,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Albertgasse 51",
+    "postalCode":1080,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363066,48.212941 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "name":"Dr. Jasmin Darabnia",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":74,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Schottengasse 7/5",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.344174,48.21116 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "name":"Dr. Rudolf Holoubek",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":34,
+    "bestRating":5,
+    "ratingValue":4.3,
+    "worstRating":"1",
+    "streetAddress":"Albertgasse 30/1/1",
+    "postalCode":1080,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3425615,48.2222903 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "name":"Dr. Yvetta Zakarian",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":185,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Theresiengasse 53/1",
+    "postalCode":1180,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343333,48.216594 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "name":"Dr. Karl Heinz Pichler",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Zimmermannplatz 1",
+    "postalCode":1090,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.369544,48.194772 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "name":"MR Dr. Herwig Laske",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":35,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Favoritenstraße 14/11",
+    "postalCode":1040,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.361859,48.190046 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "name":"Dr. Johanna Zrost",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":51,
+    "bestRating":5,
+    "ratingValue":4.7,
+    "worstRating":"1",
+    "streetAddress":"Mittersteig 24/8",
+    "postalCode":1050,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.353759,48.202506 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "name":"Dr. Barbara Rhemann-Röhrer",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":15,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Sigmundsgasse 2/8",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.361859,48.190046 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "name":"Dr. Lin Wang",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":19,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mittersteig 24/8",
+    "postalCode":1050,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.367319,48.208684 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "name":"Dr. Birgit Mayr",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":93,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Kohlmarkt 12/9",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.357294,48.190343 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "name":"Dr. Wolfgang Wöss",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":40,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Margaretenstraße 87",
+    "postalCode":1050,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34823,48.215706 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "name":"Dr. Nikolaus Veit-Rubin",
+    "description":"Frauenarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Pelikangasse 4/3",
+    "postalCode":1090,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3704662,48.2122629 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "name":"Dr. Catherine Chaput",
+    "description":"Neurologin",
+    "@type":"GeoCoordinates",
+    "reviewCount":134,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Stoß im Himmel 1/Tür 17, Ecke Wipplinger Straße 10",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.32813,48.221783 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "name":"Dr. Monika Burkart",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":34,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Rosensteingasse 68/9",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.341198,48.226852 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "name":"Dr. Barbara Stadler",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":70,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Währingerstraße 132/5",
+    "postalCode":1180,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.329997,48.2178 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "name":"Dr. Wolfgang Schweizer",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":26,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Ortliebgasse 35-37/2/3",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.341783,48.221096 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "name":"OA Dr. Markus Serek",
+    "description":"Orthopäde",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Antonigasse 1",
+    "postalCode":1180,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.333533,48.218252 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "name":"Dr. Eva Maria Wenninger",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":14,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Jörgerstraße 52/20",
+    "postalCode":1170,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.337623,48.220164 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "name":"Dr. Rudolf Babits",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":39,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Blumengasse 18",
+    "postalCode":1180,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.28754,48.202319 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "name":"Dr. Gudrun Khünl-Brady",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":28,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Achtundvierzigerplatz 31",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.298464,48.196339 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "name":"Dr. Michael Barfuß",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":13,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Rottstraße 3/2/1/4",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.286718,48.194764 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "name":"Dr. Manuela Grasl",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":30,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Linzer Straße 208-212/1/2",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.287333,48.1916276 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "name":"Dr. Veronika Königswieser",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":23,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Zehetnergasse 4/7",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.302205,48.193306 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "name":"MR Dr. Robert Lindner",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":22,
+    "bestRating":5,
+    "ratingValue":4.3,
+    "worstRating":"1",
+    "streetAddress":"Einwanggasse 36/1/2",
+    "postalCode":1140,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.299147,48.186882 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "name":"Dr. Susanne Pusarnig",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":19,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Dommayergasse 2",
+    "postalCode":1130,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.297229,48.186803 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "name":"Dr. Sebastian Szlezak",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":22,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Hietzinger Hauptstraße 34 A",
+    "postalCode":1130,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.299853,48.186404 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "name":"Dr. Edith Kafka",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":22,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Hietzinger Hauptstraße 24",
+    "postalCode":1130,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.313731,48.212163 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "name":"Dr. Wilhelm Prosche",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":29,
+    "bestRating":5,
+    "ratingValue":4.5,
+    "worstRating":"1",
+    "streetAddress":"Thaliastraße 125A/1/1/2",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.308111,48.211272 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "name":"Dr. Friederike Kommar-Glück",
+    "description":"Praktische Ärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":18,
+    "bestRating":5,
+    "ratingValue":4.6,
+    "worstRating":"1",
+    "streetAddress":"Roseggergasse 37/3",
+    "postalCode":1160,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.34657,48.196987 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "name":"Dr. Margit Meidinger",
+    "description":"Hautärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":80,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 95/1/19, 3.Stock",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.351112,48.198937 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "name":"Dr. Andreas Stepan",
+    "description":"Hautarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":28,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mariahilfer Straße 62/25",
+    "postalCode":1070,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.366474,48.203483 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "name":"Dr. Katja Schindler",
+    "description":"Hautärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":374,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Goethegasse 3/3D",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372367,48.20459 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "name":"Univ.-Prof. Dr. Mathias Zirm",
+    "description":"Augenarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":215,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Annagasse 5",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.354735,48.199681 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "name":"Dr. Ines Bonelli",
+    "description":"Hautärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":270,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Mariahilferstrasse 47/5/10",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363966,48.21158 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "name":"Dr. Kaan Harmankaya",
+    "description":"Hautarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":191,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Palais Kinsky, Freyung 4/17,  3. Stock",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.370693,48.208606 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "name":"Ao. Univ.Prof. Dr. Tamara Kopp",
+    "description":"Hautärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":148,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Trattnerhof 2/106-108",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.371811,48.203143 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "name":"OA Priv.-Doz. Dr. Johannes Matiasek",
+    "description":"Plastischer Chirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":76,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Walfischgasse 8/18",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.36883,48.20974 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "name":"Dr. med. univ. Ali Saalabian",
+    "description":"Plastischer Chirurg",
+    "@type":"GeoCoordinates",
+    "reviewCount":269,
+    "bestRating":5,
+    "ratingValue":5,
+    "worstRating":"1",
+    "streetAddress":"Goldenes Quartier, Seitzergasse 2-4",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3689237,48.2098782 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "name":"Mag. Dr. Elke Janig",
+    "description":"Hautärztin",
+    "@type":"GeoCoordinates",
+    "reviewCount":163,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Goldenes Quartier, Seitzergasse 2-4",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.371577,48.202803 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "name":"DDr. Martin Torzicky",
+    "description":"Hautarzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":104,
+    "bestRating":5,
+    "ratingValue":4.9,
+    "worstRating":"1",
+    "streetAddress":"Mahlerstraße 7/15",
+    "postalCode":1010,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.361548,48.2012244 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "name":"Dr. Thomas Fasching",
+    "description":"HNO-Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":18,
+    "bestRating":5,
+    "ratingValue":4.8,
+    "worstRating":"1",
+    "streetAddress":"Rahlgasse 1/12",
+    "postalCode":1060,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.323956,48.185809 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "name":"Dr. Georg Wosyka",
+    "description":"Praktischer Arzt",
+    "@type":"GeoCoordinates",
+    "reviewCount":19,
+    "bestRating":5,
+    "ratingValue":4.4,
+    "worstRating":"1",
+    "streetAddress":"Anschützgasse 15/A/1/6",
+    "postalCode":1150,
+    "addressLocality":"Wien",
+    "addressRegion":"Wien",
+    "addressCountry":"AT"
+    }
+  }
+]
+}
